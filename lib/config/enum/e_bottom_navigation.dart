@@ -1,0 +1,5 @@
+enum EBottomNavigation {
+  home,
+
+  user,
+}
